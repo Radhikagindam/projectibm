@@ -372,18 +372,5 @@ The findings presented in this repository are based on the dataset analyzed in t
 
 I would like to acknowledge **AICTE, BharatCares, and IBM SkillsBuild** for providing the internship learning environment, mentorship, masterclasses, and project-based learning opportunities.
 
-## Contact
-
-**Bobby**
-AI/ML Engineer
-Rajasthan, India
-
-* **GitHub:** [github.com/Bobby-balyan](https://github.com/Bobby-balyan)
-* **LinkedIn:** [linkedin.com/in/bobbybalyan](https://www.linkedin.com/in/bobbybalyan)
-* **Portfolio:** [bobbybalyan.vercel.app](https://bobbybalyan.vercel.app)
-
-For questions, feedback, or collaboration, feel free to connect with me through LinkedIn or GitHub.
-
----
 
 **Thank you for reviewing this project.**
